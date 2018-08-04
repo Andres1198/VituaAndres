@@ -1,0 +1,87 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    
+}
+
+.contenidoInicio{
+    color: #fff;
+    background: url();
+    background: rgba(0,0,1,.7);
+    margin-left: 30em;
+    margin-top: 8em;
+    padding: 5em;
+    border: 3px solid #fff;
+    border-radius: 35px 35px 35px 35px;
+    width: 50%;
+   
+
+
+}
+.finInicio{
+    margin-top:2em;
+}
+.finInicio p{
+    margin-top: 2em;
+}
+.form-group input{
+    width:50% ;
+    margin-left: 11em;
+}
+.form-group label{
+    margin-left: 11em;
+}
+/*codigo registro usuario*/
+
+.contenidoRegistroUsu{
+    background: #006600;
+    color: #fff;
+    background: url();
+    background: rgba(0,0,1,.7);
+    margin-left: 30em;
+    margin-top: 8em;
+    padding: 5em;
+    border: 3px solid #fff;
+    border-radius: 35px 35px 35px 35px;
+    width: 50%;
+
+
+}
+.form-group select{
+    width: 50%;
+    margin-left: 11em;
+}
+/*codigo registro avtividad*/
+
+.ContRegistrarActivi{
+    background: #006600;
+    color: #fff;
+    background: url(../..//archivos/14701084_354782531533893_2786753057147322368_n-1024x644.jpg);
+    margin-left: 30em;
+    margin-top: 8em;
+    padding: 5em;
+    border: 3px solid #fff;
+    border-radius: 35px 35px 35px 35px;
+    width: 50%;
+
+
+}
+/*codigo registro lugares*/
+
+.ContRegistraLug{
+    color: #fff;
+    background: url(../..//archivos/f28b0f77330e6690bb3748418c007538.jpg);
+    margin-left: 30em;
+    margin-top: 8em;
+    padding: 5em;
+    border: 3px solid #fff;
+    border-radius: 35px 35px 35px 35px;
+    width: 50%;
+    pointer-events: pionter;
+}
+#color{
+    color: #fff;
+}
