@@ -1,0 +1,51 @@
+#pagina .contenedor{
+    display:flex;
+    justify-content:center;
+    flex-wrap:wrap;
+
+
+}
+
+#pagina h3,h4 {
+
+    text-align: center;
+    color: #fff;
+
+
+}
+
+#pagina a{
+    background: rgba(0,128,0,.5);
+    display: block;
+    width: 200px;
+    color: #fff;
+    text-decoration: none;
+    padding: 5px;
+    text-align: center; 
+    border-radius: 15px 0 5% 0;
+    border: 3px solid #fff;
+        
+}
+#pagina a:hover{
+    background: rgba(128,128,128,.7);
+    color: #000;
+}
+h2{
+    color: #FFF;
+}
+
+#pagina article {
+    margin: 15px;
+}
+#pagina2 article {
+    margin: 15px;
+}
+
+#pagina img{
+    width: 300px;
+    height:250px;
+    border-radius: 10% 2%  20% 2%;
+    border: 2px solid #006600;
+
+}
+

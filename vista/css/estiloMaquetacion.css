@@ -1,0 +1,120 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.contenidoInicio{
+    color: #fff;
+    background: url();
+    background: rgba(0,0,1,.7);
+    margin-left: 30em;
+    margin-top: 8em;
+    padding: 5em;
+    border: 3px solid #fff;
+    border-radius: 50px 35px 35px 35px;
+    width: 50%;
+
+
+
+}
+.ModificacionUsu{
+
+
+}
+.finInicio{
+    margin-top:2em;
+}
+.finInicio p{
+    margin-top: 2em;
+}
+.form-group input,textarea{
+    width:50% ;
+    margin-left: 11em;
+}
+.form-group label{
+    margin-left: 11em;
+}
+/*codigo registro usuario*/
+
+.contenidoRegistroUsu{
+    background: #006600;
+    color: #fff;
+    background: url();
+    background: rgba(0,0,1,.7);
+    margin-left: 30em;
+    margin-top: 8em;
+    padding: 5em;
+    border: 3px solid #fff;
+    border-radius: 35px 35px 35px 35px;
+    width: 50%;
+
+
+}
+.form-group select{
+    width: 50%;
+    margin-left: 11em;
+}
+/*codigo registro avtividad*/
+
+.ContRegistrarActivi{
+    background: #006600;
+    color: #fff;
+    background: rgba(0,0,1,.7);
+    margin-left: 30em;
+    margin-top: 8em;
+    padding: 5em;
+    border: 3px solid #fff;
+    border-radius: 35px 35px 35px 35px;
+    width: 50%;
+
+
+}
+/*codigo registro lugares*/
+
+.ContRegistraLug{
+    color: #fff;
+    background: rgba(0,0,1,.7);
+    margin-left: 30em;
+    margin-top: 8em;
+    padding: 5em;
+    border: 3px solid #fff;
+    border-radius: 35px 35px 35px 35px;
+    width: 50%;
+    pointer-events: pionter;
+}
+.contenidoCrearPa{
+    color: #fff;
+    background: rgba(0,0,1,.7);
+    margin-left: 30em;
+    margin-top: 8em;
+    padding: 5em;
+    border: 3px solid #fff;
+    border-radius: 35px 35px 35px 35px;
+    width: 50%;
+    pointer-events: pionter;
+}
+.contenidoLugar{
+    color: #fff;
+    background: url();
+    background: rgba(0,0,1,.7);
+    margin-left: 30em;
+    margin-top: 8em;
+    padding: 5em;
+    border: 3px solid #fff;
+    border-radius: 50px 35px 35px 35px;
+    width: 50%;
+
+}
+.botones{
+    margin-left: 115px;
+}
+
+
+.Regitro{
+
+    color: #000;
+}
+.form-group{
+
+}

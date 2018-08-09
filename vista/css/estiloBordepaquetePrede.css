@@ -1,0 +1,9 @@
+.bordes{
+    color: #000;
+    background: #cccccc;
+    border: 3px solid #fff;
+    border-radius: 12px 12px 12px 12px ;
+    width: 90%;
+    margin-left: 50px;
+
+}

@@ -1,0 +1,78 @@
+body{
+
+}
+.estilosBtn{
+
+
+
+}
+.conteTablas{
+
+    color: #000;
+    background:rgba(0,0,1,.5);
+    margin-left: 5em;
+    margin-top: 8em;
+    padding: 5em;
+    border-radius: 80px 80px 80px 80px;
+    width: 90%;
+}
+.hover:hover{
+    background: rgba(0,128,0,.5);
+    cursor: pointer;
+}
+
+.estilosBtnT:hover{
+    background: rgba(0,128,0,.5);
+
+}
+#botonInfoReser{
+    margin-left:50px;
+    width: 50%;
+}
+
+.textos{
+    border:3px ;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.bordesPaquetepre{
+    background: #006600;
+    border: 3px solid #fff;
+    border-radius: 12px 12px 12px 12px ;
+    width: 90%;
+    margin-left: 50px;
+}
+
+.conpaquepre{
+    color: #fff;
+    background: rgba(0,0,1,.7);
+    margin-left: 30em;
+    margin-top: 8em;
+}
+.BordeRegis{
+    border:1px solid #fff;
+    background: #cccccc;
+    width: 90%;
+    margin-left: 50px;
+    color: #000;
+
+}
+.diseñoA a{
+    width: 100px;
+    color: #fff;
+    text-decoration: none;
+    padding: 7px;
+    margin-top: 10px;
+    border: 3px solid #fff;
+    border-radius: 8px 8px 8px 8px;
+    text-align: center;
+}
+.diseñoA a:hover{
+    background: rgba(0,128,0,.7);
+    cursor: pointer;
+    color: #fff;
+}
+
+
+
+
